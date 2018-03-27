@@ -13,8 +13,8 @@ spring-boot-start-dubbo
 
 如何发布Dubbo服务
 ---
-1、下载源码到本地，执行mvn clean install命令编译，或者执行mvn clean deploy命令发布到本地私服。
-2、在Spring Boot项目的pom.xml中添加以下依赖:
+* 下载源码到本地，执行mvn clean install命令编译，或者执行mvn clean deploy命令发布到本地私服。 
+* 在Spring Boot项目的pom.xml中添加以下依赖:
 ---
 
 ```
